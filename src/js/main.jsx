@@ -16,3 +16,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Home/>
   </React.StrictMode>,
 )
+import 'bootstrap/dist/css/bootstrap.min.css';
